@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">COVID AVOID</string>
+    <string name="default_notification_channel_id">1</string>
+</resources>
